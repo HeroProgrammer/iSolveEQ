@@ -1,7 +1,25 @@
-div{
-	border=2px black solid;
+#title2{
+	text-align:left;
+	color:white;
+	font-family:sans-serif;
+}
+
+#title{
+	text-align:center;
+	background-color:#990000;
+	color:white;
+	font-family:sans-serif;
 }
 
 table{
-	border="1" black solid;
+	border:1px blue solid;
+	background-color:#0000FF;
+}
+th{
+	color:white;
+	font-family:sans-serif;
+}
+
+body{
+	background-color:#FF0000;
 }
