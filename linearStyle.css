@@ -25,7 +25,46 @@ h4{
 	color:white;
 }
 
+#symbols{
+	position:absolute;
+	top:105px;
+	left:125px;
+}
+
+#symbols2{
+	position:absolute;
+	top:105px;
+	left:263px;
+}
+
 body{
 	background-color:#5EBFFF;
+}
+
+#mX{
+	position:absolute;
+	top:125px;
+	left:150px;
+	border: 1px solid white;
+	border-radius:3px;
+	width:100px;
+}
+
+#c{
+	position:absolute;
+	top:125px;
+	left:290px;
+	border: 1px solid white;
+	border-radius:3px;
+	width:100px;
+}
+
+#y{
+	position:absolute;
+	top:125px;
+	left:10px;
+	border: 1px solid white;
+	border-radius:3px;
+	width:100px;
 }
 
