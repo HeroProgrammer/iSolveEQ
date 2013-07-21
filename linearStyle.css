@@ -9,7 +9,7 @@
 	border-radius:3px
 }
 
-#header #about{
+#header #back{
 	position:absolute;
 	top:14px;
 	left:10px;
@@ -20,39 +20,12 @@
 	border-radius:3px;
 }
 
-#equations{
-	background-color:#55ACE6;
+h4{
+	font-family:cursive;
 	color:white;
-	border:1px solid white;
-	border-radius:3px;
-	font-size:20px;
-	text-align:center;
-}
-
-#equations ul{
-	list-style-type:none;
-}
-
-h3{
-	font-family:Verdana,sans-serif;
-	color:white;
-	text-align:center;
 }
 
 body{
 	background-color:#5EBFFF;
-}
-
-a{
-	color:white;
-	text-decoration:none;
-}
-
-div hr{
-	margin-right:50px;
-}
-
-p{
-	text-align:center;
 }
 
