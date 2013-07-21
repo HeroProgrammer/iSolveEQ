@@ -68,3 +68,13 @@ body{
 	width:100px;
 }
 
+#resultButton{
+	position:absolute;
+	top:200px;
+	left:10px;
+	height:45px;
+	width:65px;
+	background-color:#55ACE6;
+	color:white;
+}
+
