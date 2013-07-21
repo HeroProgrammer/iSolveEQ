@@ -2,9 +2,11 @@
 	font-family:Verdana,sans-serif;
 	font-size:24px;
 	text-align:center;
-	background-color:#3333FF;
+	background-color:#55ACE6;
 	color:white;
 	height:50px;
+	border: 1px solid white;
+	border-radius:3px
 }
 
 #header #about{
@@ -12,13 +14,14 @@
 	top:14px;
 	left:10px;
 	font-size:75%;
-	background-color:#7070FF;
+	background-color:#4C9BCF;
 	color:white;
-	border:1px dashed white;
+	border:1px solid white;
+	border-radius:3px
 }
 
 #equations{
-	background-color:#3333FF;
+	background-color:#55ACE6;
 	color:white;
 	border:1px solid white;
 	border-radius:3px;
@@ -37,6 +40,15 @@ h3{
 }
 
 body{
-	background-color:#1919FF;
+	background-color:#5EBFFF;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+}
+
+div hr{
+	margin-right:50px;
 }
 
