@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<link type="text/css" rel="stylesheet" href="linearStyle.css"/>
@@ -6,15 +6,22 @@
 	
 	<body>
 		<div id="header"><div id="back"><a href="index.html">Back</a></div>Linear Equations</div>
-		<h4>Form:&nbsp&nbsp&nbsp&nbsp&nbsp  y = mX + c</h4>
+		<h4>Form:&nbsp&nbsp&nbsp&nbsp&nbsp  y = m<span>X</span> + c</h4>
 		<div id="solver">
 			<input type="text" id="y">
+			<p id="yT">(y)</p>
 			<h4 id="symbols">=</h4>
 			<input type="text" id="mX">
+			<p id="mT">(m)</p>
+			<p id="X">X</p>
 			<h4 id="symbols2">+</h4>
 			<input type="text" id="c">
+			<p id="cT">(c)</p>
+			<button type="button" id="PM"></button>
+			<button type="button" id="resultButton">Solve</button>
+			<h4 id="ansX">x=&nbsp </h4>
+			<p id="result">Result: </p>
+			<input type="text" id="answerBox">
 		</div>
-		
-		<button type="button" id="resultButton">Solve</button>
 	</body>
 </html>
