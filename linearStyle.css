@@ -6,7 +6,8 @@
 	color:white;
 	height:50px;
 	border: 1px solid white;
-	border-radius:3px
+	border-radius:3px;
+	position:fixed;
 }
 
 #header #back{
@@ -147,4 +148,8 @@ span{
 	left:217px;
 	color:white;
 	font-family:Verdana;
+}
+
+a{
+	color:white;
 }
