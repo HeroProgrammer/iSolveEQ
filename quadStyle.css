@@ -48,34 +48,34 @@ h4{
 	left:10px;
 	border: 1px solid white;
 	border-radius:5px;
-	width:55px;
+	width:45px;
 }
 
 #b{
 	position:absolute;
 	top:125px;
-	left:133px;
+	left:127px;
 	border: 1px solid white;
 	border-radius:5px;
-	width:55px;
+	width:45px;
 }
 
 #x2{
 	position:absolute;
 	top:110px;
-	left:70px;
+	left:60px;
 }
 
 #plus1{
 	position:absolute;
 	top:107px;
-	left:112px;
+	left:105px;
 }
 
 #x{
 	position:absolute;
 	top:111.5px;
-	left:196px;
+	left:180px;
 	color: white;
 	font-family:Verdana;
 }
@@ -83,21 +83,21 @@ h4{
 #plus2{
 	position:absolute;
 	top:107px;
-	left:217px;
+	left:200px;
 }
 
 #c{
 	position:absolute;
 	top:125px;
-	left:243px;
+	left:225px;
 	border: 1px solid white;
 	border-radius:5px;
-	width:55px;
+	width:45px;
 }
 #aT{
 	position:absolute;
 	top:137px;
-	left:26px;
+	left:20px;
 	color:white;
 	font-family:Verdana;
 }
@@ -105,7 +105,7 @@ h4{
 #bT{
 	position:absolute;
 	top:137px;
-	left:149px;
+	left:137px;
 	color:white;
 	font-family:Verdana;
 }
@@ -113,7 +113,7 @@ h4{
 #cT{
 	position:absolute;
 	top:137px;
-	left:260px;
+	left:237px;
 	color:white;
 	font-family:Verdana;
 }
@@ -121,7 +121,7 @@ h4{
 #equal{
 	position:absolute;
 	top:107px;
-	left:305px;
+	left:280px;
 	color:white;
 	font-family:Verdana;
 }
@@ -134,7 +134,7 @@ a{
 #zero{
 	position:absolute;
 	top:107px;
-	left:323px;
+	left:300px;
 	color:white;
 	font-family:Verdana;
 }
