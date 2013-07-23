@@ -45,7 +45,7 @@ body{
 	background-color:#55ACE6;
 }
 
-a{
+a:active,a:visited, a:link{
 	color:white;
 	text-decoration:none;
 }
