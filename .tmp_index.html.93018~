@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+	</head>
+		<link type="text/css" rel="stylesheet" href="indexStyle.css"/>
+	<body>
+		<div id="header"><div id="about"><a href="about.html">About</a></div>iSolveEQ</div>
+		<hr>
+		<h3>Equations</h3>
+		<div id="equations">
+			<br>
+				<ul>
+					<hr>
+					<a href="Linear.html"><li>Linear Equations</li></a>
+					<hr>
+					<a href="Quadratic.html"><li>Quadrtic Equations</li></a>
+					<hr>
+					<a href=""><li>Cubic Equations</li></a>
+					<hr>
+					<a href=""><li>Quartic Equations</li></a>
+					<hr>
+					<a href=""><li>Simultaneous Equations</li></a>
+					<hr>
+				</ul>
+			<br>
+		</div>
+	</body>
+</html>

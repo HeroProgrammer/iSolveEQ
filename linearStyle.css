@@ -1,3 +1,7 @@
+body {
+	text-align: center;
+	background-color:#55ACE6;
+}
 #header{
 	font-family:Verdana,sans-serif;
 	font-size:24px;
@@ -10,105 +14,37 @@
 }
 
 #header #back{
-	position:absolute;
-	top:14px;
-	left:10px;
+	position: absolute;
 	font-size:75%;
 	background-color:#4C9BCF;
 	color:white;
 	border:1px solid white;
 	border-radius:3px;
+	top: 13px;
+	left: 10px;
 }
-
+#input {
+	border-radius: 5px;
+	width: 70px;
+}
 
 h4{
 	font-family:Verdana;
 	color:white;
 }
-
-#symbols{
-	position:absolute;
-	top:105px;
-	left:90px;
-	color:black;
-}
-
-#symbols2{
-	position:absolute;
-	top:105px;
-	left:210px;
-	color:black;
-}
-
-body{
-	background-color:#55ACE6;
-}
-
-#mX{
-	position:absolute;
-	top:125px;
-	left:110px;
-	border: 1px solid white;
-	border-radius:5px;
-	width:70px;
-}
-
-#c{
-	position:absolute;
-	top:125px;
-	left:233px;
-	border: 1px solid white;
-	border-radius:5px;
-	width:70px;
-}
-
-#y{
-	position:absolute;
-	top:125px;
-	left:10px;
-	border: 1px solid white;
-	border-radius:5px;
-	width:70px;
-}
-
 #resultButton{
-	position:absolute;
-	top:185px;
-	left:65px;
 	height:45px;
 	width:65px;
 	color:#55ACE6;
 }
 
-#PM{
-	position:absolute;
-	top:185px;
-	left:10px;
+#pmButton{
 	height:45px;
 	width:45px;
 	color:#55ACE6;
 }
 
-#yT{
-	position:absolute;
-	top:137px;
-	left:33px;
-	color:white;
-	font-family:Verdana;
-}
-
-#mT{
-	position:absolute;
-	top:137px;
-	left:132px;
-	color:white;
-	font-family:Verdana;
-}
-
-#cT{
-	position:absolute;
-	top:137px;
-	left:257px;
+#betweenBrackets{
 	color:white;
 	font-family:Verdana;
 }
@@ -118,32 +54,20 @@ span{
 }
 
 #X{
-	position:absolute;
-	top:109px;
-	left:187px;
 	font-family:cursive;
 	color:white;
 }
 #ansX{
 	color:white;
-	position:absolute;
-	top:181px;
-	left:180px;
 }
 
 #answerBox{
-	position:absolute;
-	top:200px;
-	left:210px;
 	border: 1px solid white;
 	border-radius:5px;
 	width:100px;
 }
 
 #result{
-	position:absolute;
-	top:165px;
-	left:217px;
 	color:white;
 	font-family:Verdana;
 }
