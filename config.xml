@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Widget (basic) information -->
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.yup.isolveeq"
+        versionCode="1" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+	<name>iSolveEQ for Android and WP</name>
+
+    <description>
+       	iSolveEQ is a very handy and easy to use equation solver. iSolveEQ can solve many types of equations including cubic 
+		and 3 simultaneous equations. iSolveEQ is and always will be free. iSolveEQ is sophisticated enough to give you the results 
+		in complex form. Quit wasting your precious time in and do your work quicker and more efficiently by solving equations at 
+		the blink of an eye. 
+
+		Created by a math student for math students. 
+
+		©YUP 2013 All Rights Reserved
+
+    </description>
+
+    <author href="http://www.youngunitedprogrammers.com" email="yup@youngunitedprogrammers.com">
+        Youssef Sami
+    </author>
+
+	<!-- Preferences -->
+	<preference name="phonegap-version" value="2.9.0" />
+	<preference name="orientation" value="portrait" />
+	<!-- iOS only --><preference name="target-device" value="universal" />
+	<preference name="fullscreen" value="true" />
+	<!-- iOS only --><preference name="webviewbounce" value="false" />
+	<!-- iOS only --><preference name="prerendered-icon" value="false" />
+	<!-- iOS only --><preference name="exit-on-suspend" value="false" />
+	<preference name="splash-screen-duration" value="3000" />
+	<preference name="load-url-timeout" value="1500" />
+	
+	<!-- iOS icons -->
+	<icon src="iSolveEQiPhoneIcon.png" gap:platform="ios" width="57" height="57" />
+	<icon src="iSolveEQiPadIcon.png" gap:platform="ios" width="72" height="72" />
+	<icon src="iSolveEQiPhoneIcon@2x.png" gap:platform="ios" width="114" height="114" />
+	<icon src="iSolveEQiPadIcon@2x.png" gap:platform="ios" width="144" height="144" />
+	
+	<!-- Android icon -->
+	<icon src="iSolveEQiPhoneIcon.png" gap:platform="android" />
+	
+	<!-- Blackberry icon -->
+	<icon src="iSolveEQiPhoneIcon.png" gap:platform="blackberry" />
+	
+	<!-- Windows Phone icon -->
+	<icon src="iSolveEQiPhoneIcon.png" gap:platform="winphone" />
+	
+	<!-- WebOS icon -->
+	<icon src="iSolveEQiPhoneIcon@2x.png" gap:platform="webos" />
+	<icon src="iSolveEQiPhoneIcon.png" gap:platform="webos" gap:role="mini" />
+	
+	<!-- Splash screen -->
+	<gap:splash src="splash.png" />
+
+</widget>
