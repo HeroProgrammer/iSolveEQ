@@ -9,7 +9,7 @@
 	border-radius:3px;
 }
 
-#header #back{
+#back{
 	position:absolute;
 	top:14px;
 	left:10px;
@@ -18,6 +18,11 @@
 	color:white;
 	border:1px solid white;
 	border-radius:3px;
+	text-decoration:none;
+}
+
+a:link, a:visited, a:hover, a:active{
+	color:white;
 	text-decoration:none;
 }
 body{
@@ -42,157 +47,41 @@ h4{
 	font-family:Cursive;
 }
 
-#a{
-	position:absolute;
-	top:125px;
-	left:10px;
-	border: 1px solid white;
-	border-radius:5px;
+#input{
+	border:1px solid white;
+	border-radius:3px;
+	width:35px;
+}
+
+*{
+	text-align:center;
+	color:white;
+	font-family:Verdana;
+}
+
+#pmButton{
+	height:45px;
 	width:45px;
-}
-
-#b{
-	position:absolute;
-	top:125px;
-	left:127px;
-	border: 1px solid white;
-	border-radius:5px;
-	width:45px;
-}
-
-#x2{
-	position:absolute;
-	top:110px;
-	left:60px;
-}
-
-#plus1{
-	position:absolute;
-	top:107px;
-	left:105px;
-}
-
-#x{
-	position:absolute;
-	top:111.5px;
-	left:180px;
-	color: white;
-	font-family:Verdana;
-}
-
-#plus2{
-	position:absolute;
-	top:107px;
-	left:200px;
-}
-
-#c{
-	position:absolute;
-	top:125px;
-	left:225px;
-	border: 1px solid white;
-	border-radius:5px;
-	width:45px;
-}
-#aT{
-	position:absolute;
-	top:137px;
-	left:20px;
-	color:white;
-	font-family:Verdana;
-}
-
-#bT{
-	position:absolute;
-	top:137px;
-	left:137px;
-	color:white;
-	font-family:Verdana;
-}
-
-#cT{
-	position:absolute;
-	top:137px;
-	left:237px;
-	color:white;
-	font-family:Verdana;
-}
-
-#equal{
-	position:absolute;
-	top:107px;
-	left:280px;
-	color:white;
-	font-family:Verdana;
-}
-
-a{
-	color:white;
-	text-decoration:none;
-}
-
-#zero{
-	position:absolute;
-	top:107px;
-	left:300px;
-	color:white;
-	font-family:Verdana;
+	color:#55ACE6;
 }
 
 #resultButton{
-	position:absolute;
-	top:185px;
-	left:65px;
 	height:45px;
 	width:65px;
 	color:#55ACE6;
 }
 
-#PM{
-	position:absolute;
-	top:185px;
-	left:10px;
-	height:45px;
-	width:45px;
-	color:#55ACE6;
-}
-
-#result{
-	position:absolute;
-	top:165px;
-	left:217px;
+p{
 	color:white;
-	font-family:Verdana;
-}
-
-#ansX{
-	color:white;
-	position:absolute;
-	top:181px;
-	left:180px;
-}
-
-#ansX2{
-	color:white;
-	position:absolute;
-	top:215px;
-	left:155px;
+	font-family:Verdana
 }
 
 #answerBox{
-	position:absolute;
-	top:200px;
-	left:210px;
 	border: 1px solid white;
-	border-radius:5px;
+	border-radius: 3px;
 	width:100px;
 }
 
-#answerBox2{
-	position:absolute;
-	top:233px;
-	left:210px;
-	border: 1px solid white;
-	border-radius:5px;
-	width:100px;
+#x{
+	font-family:cursive;
 }

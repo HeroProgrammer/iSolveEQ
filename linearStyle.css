@@ -24,6 +24,7 @@ body {
 	left: 10px;
 }
 #input {
+	border: 1px solid white;
 	border-radius: 5px;
 	width: 35px;
 }
