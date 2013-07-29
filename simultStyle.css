@@ -1,0 +1,52 @@
+#header{
+	font-family:sans,sans-serif;
+	font-size:24px;
+	text-align:center;
+	background-color:#55ACE6;
+	color:white;
+	height:50px;
+	border: 1px solid white;
+	border-radius:3px;
+}
+
+#back{
+	position:absolute;
+	top:14px;
+	left:10px;
+	font-size:75%;
+	background-color:#4C9BCF;
+	color:white;
+	border:1px solid white;
+	border-radius:3px;
+	text-decoration:none;
+}
+
+a:link, a:visited, a:hover, a:active{
+	color:white;
+	text-decoration:none;
+}
+
+body{
+	background-color:#55ACE6;
+}
+
+*{
+	text-align:center;
+	color:white;
+}
+
+ul{
+	list-style-type:none;
+	margin: 0; 
+	padding: 0;
+}
+
+#simEquations{
+	border:1px white solid;
+	border-radius: 3px;
+}
+
+#simEquations ul li {
+	font-family:sans;
+	font-size: 18px;
+}
