@@ -29,6 +29,7 @@ body {
 	width: 35px;
 	font-family:sans;
 	font-size:16px;
+	color:black;
 }
 
 h4{
@@ -74,6 +75,7 @@ span{
 	width:100px;
 	font-family:sans;
 	font-size:16px;
+	color:black;
 }
 
 #result{

@@ -27,22 +27,20 @@ a:link, a:visited, a:hover, a:active{
 }
 body{
 	background-color:#55ACE6;
+	text-align:center;
+	color:white;
 }
 
 h4{
-	font-size:20px
-}
-
-*{
-	text-align:center;
-	color:white;
+	font-size:20px;
 }
 
 #input{
 	border:1px solid white;
 	border-radius:3px;
 	width:35px;
-	font-size:16px;;
+	font-size:16px;
+	color:black;
 }
 
 #resultButton{
@@ -62,6 +60,7 @@ h4{
 	border-radius: 3px;
 	width:100px;
 	font-size:16px;
+	color:black;
 }
 
 #result{
